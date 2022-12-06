@@ -9,4 +9,4 @@
 
    Blog：https://blog.csdn.net/lzzzzzzm?type=blog
    
-   AIStudio：https://aistudio.baidu.com/aistudio/index
+   AIStudio：https://aistudio.baidu.com/aistudio/personalcenter/thirdview/653110
