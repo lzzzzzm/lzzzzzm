@@ -4,7 +4,7 @@
 - 🎨 BE in JLU, pursuing my AI phd in XJTU.
 - 👀 I’m interested in AI and MCU development
 - 🌱 Interested in 3D Scene Understanding.
-- 📫 Reach me 529641220 on qq
+- 📫 Reach me liaozm@stu.xjtu.edu.cn
 - 🐛 I also activate in CSDN and AIStudio
 
    Blog：https://blog.csdn.net/lzzzzzzm?type=blog
