@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jimmy Liao 👋</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzzzzzm)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzzzzzm&layout=compact)](https://github.com/lzzzzzm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzzzzzm)](https://github.com/lzzzzzm/github-readme-stats)
 
 <h2 align="center">🚀 About Me</h2>
 
