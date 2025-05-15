@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Jimmy Liao 👋</h1>
 
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzzzzzm&width=500&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzzzzzm&layout=compact)](https://github.com/lzzzzzm/github-readme-stats)
-
+</div>
 <h2 align="center">🚀 About Me</h2>
 
 - 🔭 I'm currently an PhD Student on **Xi’an Jiaotong University**
