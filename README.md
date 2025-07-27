@@ -11,5 +11,10 @@
 
 <h2 align="center"> 🔥News</h2>
 
-- **[2025.03]** Our paper **[STCOcc](https://arxiv.org/abs/2504.19749)** has been accepted by [CVPR 2025](https://cvpr.thecvf.com/)! 🎉🎉🎉
+- **[2025.07]** Our paper **[II-World](https://arxiv.org/abs/2507.09144)** has been accepted by **[ICCV 2025](https://iccv.thecvf.com/)!** 🎉🎉🎉
+- **[2025.03]** Our paper **[STCOcc](https://arxiv.org/abs/2504.19749)** has been accepted by **[CVPR 2025](https://cvpr.thecvf.com/)!** 🎉🎉🎉
 - **[2024.06]** We won the Runner-up🥈 in the **[CVPR 2024 Occupancy and Flow Challenge](https://opendrivelab.com/challenge2024/)**
+
+<h2 align="center"> 🎥Current Work Demo</h2>
+
+https://github.com/user-attachments/assets/693ba6d3-46ba-4529-ae3f-dc8a3456e4cc
